@@ -9,6 +9,8 @@
 > **and**
 >
 > **Java version 17**
+> 
+> **use MySQL**
 
 
 > ### Schema of User Management System
